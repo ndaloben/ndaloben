@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on Nextjs & React projects
 - 📫 How to reach me ...
 
